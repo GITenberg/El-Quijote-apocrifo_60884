@@ -1,0 +1,30 @@
+_repo: El-Quijote-apocrifo_60884
+_version: 0.0.1
+alternative_title: Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha
+creator:
+  author:
+    agent_name: Fernández de Avellaneda, Alonso
+    aliases:
+    - Fernandez de Avellaneda, Alonso
+    - De Avellaneda, Alonso Fernández
+    - Avellaneda, Alonso Fernández de
+    gutenberg_agent_id: '51172'
+    url: http://www.gutenberg.org/2009/agents/51172
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alonso_Fern%C3%A1ndez_de_Avellaneda
+    - https://es.wikipedia.org/wiki/Alonso_Fern%C3%A1ndez_de_Avellaneda
+description: ''
+gutenberg_issued: '2019-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60884'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Quixote, Don (Fictitious character) -- Fiction'
+- GITenberg
+title: El Quijote apócrifo
+url: http://www.gutenberg.org/ebooks/60884
