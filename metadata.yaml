@@ -1,6 +1,9 @@
 _repo: El-Quijote-apocrifo_60884
 _version: 0.1.0
 alternative_title: Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha
+covers:
+- cover_type: archival
+  image_path: 60884-h/images/cover.jpg
 creator:
   author:
     agent_name: Fernández de Avellaneda, Alonso
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alonso_Fern%C3%A1ndez_de_Avellaneda
     - https://es.wikipedia.org/wiki/Alonso_Fern%C3%A1ndez_de_Avellaneda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60884#El-Quijote-apocrifo
 gutenberg_issued: '2019-12-09'
 gutenberg_type: Text
 identifiers:
